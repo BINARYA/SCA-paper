@@ -1,4 +1,4 @@
-### SKA-paper
+### SCA-paper
 
 **Super Competitive Arena**   
 **"A Game as I Like"**   
@@ -17,7 +17,7 @@
 
 ### Introduzione
 
-**ma perché sviluppare SKA ?**  
+**ma perché sviluppare SCA ?**  
 Giocare riveste una significativa importanza per una serie di motivi profondamente radicati nella convinzione che le interazioni sociali dirette e i legami che ne derivano siano elementi essenziali per una vita appagante e felice. Al cuore di questa riflessione sta l'idea che riunirsi per giocare rappresenti una delle forme più genuine e gratificanti di espressione sociale, un'attività che non solo rafforza le relazioni interpersonali ma che funge anche da prezioso insegnamento per le giovani generazioni.
 
 Il gioco, inteso come momento di incontro e condivisione, emerge come un veicolo fondamentale per trasmettere valori di cooperazione, strategia e competizione leale. L'apprendimento ludico stimola la mente a elaborare tattiche e strategie, invitando i partecipanti a misurarsi intellettualmente con gli altri in un contesto di sfida stimolante. Questa dinamica si rivela non solo affascinante ma anche formativa, poiché insegna a gioire equamente nelle vittorie e ad accettare con grazia le sconfitte.
