@@ -1,7 +1,7 @@
 ### REGOLE del gioco
 
 ---
-SKA - rappresenta una battaglia di gladiatori dentro un'arena. 
+SCA - rappresenta una battaglia di gladiatori dentro un'arena. 
 
 ### Casual ###
 **Obiettivo**
