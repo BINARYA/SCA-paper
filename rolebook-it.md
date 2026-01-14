@@ -1,24 +1,20 @@
-### REGOLE del gioco
+### REGOLE del gioco (da aggiornare)
 
 ---
 SCA - rappresenta una battaglia di gladiatori dentro un'arena. 
 
 ### Casual ###
 **Obiettivo**
-Essere l'unico guerriero vivo sul campo di battaglia
+Dipende dalla modalità di gioco.
 
 **Scelta campione**   
+1. Ogni giocatore ne sceglie un campione, sceglie un colore e prende le pedine oorrispondenti e si costruisce un mazzo o usa quello pre-costruito.
 
-1. Si mescola il mazzo dei campioni e si distribuiscono 3 campioni ad ogni giocatore.   
-2. Ogni giocatore ne sceglie senza farlo vedere agli altri giocatori e restituisce gli altri due.    
-3. Ogni giocatore prende una pedina che rappresenterà il proprio campione all'interno dell'arena di gioco.    
-4. Ogni giocatore prende una ruota dell'orinetamento
 ---
 
 **Predisposizione dell'arena**
-1.Si distribuiscono nove tessere della plancia ad ogni giocatore.   
-2.A turno i giocatori posizionano tre delle loro tessere facendo attenzione che siano orientate come la prima posizionata.   
-3.Posizionare la pdina del proprio campione su una delle ultime tre tessere posizionate.    
+1.Si posizionano i campioni nll'arena.   
+2.Si posiziona il mazzo delle carte ambiente a faccia in su nell'area del futuro.
 
 ---
 
@@ -40,22 +36,18 @@ In un qualsiasi momento del processo gli altri giocatori possono richiedere una 
 ---
 
 **FASI di gioco**
-Ogni assalto del combattimento dentro l'arena è suddiviso in quattro azioni.    
-Al termine di esse segue una fase di recupero in cui i campioni raccolgono le ide per organizzare la strategia di attacco del prossimo assalto.   
+Ogni istante dellla battaglia è suddiviso in tre fasi.    
 
 1. Scelta azione - Ogni giocatore sceglie una carta e posiziona la ruota dell'orientamento e le pone coperte di fronte a se.   
 2. Rivelazione - Ogni giocatore rivela la propria carta e il proprio orientamento.    
-3. Assegnazione effetti veloci - Vengono distribuiti sulla plancia tutti gli effetti o i danni dovuti agli effetti veloci. I campioni presenti su una tessera a cui sono stati assegnati dei danni ne subiscono altrettanti.    
-4. Movimento - Vengono spostati i campioni sulla base dei movimenti. I campioni che attraversano o terminano il movimento su una tessera a cui sono stati assegnati dei danni, subiscono tutti i danni presenti.   
-5. Assegnazione effetti lenti - Vengono distribuiti sulla plancia tutti i danni dovuti agli effetti lenti. Vengono distribuiti sulla plancia tutte le azioni e i danni dovuti agli effetti lenti. I campioni presenti su una tessera a cui sono stati assegnati dei danni ne subiscono altrettanti.     
+3. Assegnazione effetti veloci | Movimento | lnti 
 
-Se sono state effettuate quattro azioni si passa alla fase di recupero, altrimenti si ritorna alla fase 1.   
-6. Recupero - Tutte le carte giocate vengono posizionate nella pila degli scarti. Ogni giocatore può scegliere di spendere i propri punti recupero per  riprendere in mano una o piu carte dalla pila degli scarti.    
-(da decidere se il recupero ogni 4, 5 turni oppure a discrezione dopo ogni azione)
+Alla fne di ogni istante si vrifica se qualcuno è stato sconfitto e si applicano eventuali fasi di rinascita. Poi si ritorna alla fase 1.   
+
 
 
 **VITTORIA**
-Se Non rimangono guerrireri vivi sul campo di battaglia nessuno può dichiararsi vincitore. 
+In base alla modalità di gioco, se il gongo suona per la terza volta, un obbiettivo è raggiunto o se rimane un solo campione sul campo di battaglia la partita finisce. 
 
 ---
 
@@ -69,16 +61,3 @@ Se Non rimangono guerrireri vivi sul campo di battaglia nessuno può dichiararsi
 7. Concentrare
 
 
-
-### Casual Team###
-Segue le stesse regole del casual, ma verrà considerata vincente la squadra con almeno un campione vivo e nessuno delle altre squadre avversarie. 
-
----
-
-### Competitive ###
-
----
-
-### Competitive MIRROR ###
-
----
