@@ -1,63 +1,69 @@
-### REGOLE del gioco (da aggiornare)
-
----
-SCA - rappresenta una battaglia di gladiatori dentro un'arena. 
-
-### Casual ###
-**Obiettivo**
-Dipende dalla modalità di gioco.
-
-**Scelta campione**   
-1. Ogni giocatore ne sceglie un campione, sceglie un colore e prende le pedine oorrispondenti e si costruisce un mazzo o usa quello pre-costruito.
+### GAME RULES (to be updated)
 
 ---
 
-**Predisposizione dell'arena**
-1.Si posizionano i campioni nll'arena.   
-2.Si posiziona il mazzo delle carte ambiente a faccia in su nell'area del futuro.
+**SCA** represents a gladiator battle inside an arena.
+
+### Casual
+
+**Goal**
+Depends on the game mode.
+
+**Champion selection**
+
+1. Each player chooses a champion, chooses a color, takes the corresponding tokens, and builds a deck (or uses a pre-built one).
 
 ---
 
-**Scelta delle abilità**   
-1.Ogni giocatore rivela il proprio campione e lo poggia sul tavolo a faccia in su di fronte a se.   
-2.Posiziona i dadi di Concentrazione, Recupero e Vitalità di fianco alla carta del proprio campione.    
-Posizionare il dato Concentrazione e Recupero al valore 0, mentre quello di Vitalità al valore di vitalità riportato sul proprio campione.     
-3.Dare ad ogni giocatore un mazzo abilità.   
-4.Cominciando dalle carte bianche i giocatori scelgono un numero di carte equivalente al valore riportato sul proprio campione nella casella Bianca e le posizionano visibili agli altri giocatori.
-Seguire il processo per tutti gli altri colori.   
-Se durante il processo qualche giocatore ha il valore pari a zero riportato sulla corrisponde colore dovra attendere che gli altri giocatori abbiano finito di scegliere le proprie abilità.   
-In un qualsiasi momento del processo gli altri giocatori possono richiedere una verifica per controllare che il numero di carte di uno specifico colore corrisponda al quantitativo riportato sul campione di quel giocatore.   
-5.Una volta terminato la scelta delle abilità, le carte rimanenti del mazzo abilità vanno messe da parte perchè non saranno piu accessibili durante la battaglia.    
+**Arena setup**
+
+1. Place the champions in the arena.
+2. Place the Environment card deck face up in the Future area.
 
 ---
 
-###INIZIA LA BATTAGLIA!!###
+**Ability selection**
+
+1. Each player reveals their champion and places it face up on the table in front of them.
+2. Place the Focus, Recovery, and Vitality dice next to the champion card.
+   Set the Focus and Recovery dice to 0, and set the Vitality die to the Vitality value shown on the champion.
+3. Give each player an Ability deck.
+4. Starting with the white cards, players choose a number of cards equal to the value shown on their champion in the White box and place them face up, visible to the other players.
+   Repeat the process for all the other colors.
+   If during the process a player has a value of zero in a given color, they must wait until the other players have finished choosing their abilities.
+   At any time during the process, other players may request a check to verify that the number of cards of a specific color matches the amount indicated on that player’s champion.
+5. Once ability selection is complete, the remaining cards in the Ability deck are set aside, because they will no longer be available during the battle.
 
 ---
 
-**FASI di gioco**
-Ogni istante dellla battaglia è suddiviso in tre fasi.    
-
-1. Scelta azione - Ogni giocatore sceglie una carta e posiziona la ruota dell'orientamento e le pone coperte di fronte a se.   
-2. Rivelazione - Ogni giocatore rivela la propria carta e il proprio orientamento.    
-3. Assegnazione effetti veloci | Movimento | lnti 
-
-Alla fne di ogni istante si vrifica se qualcuno è stato sconfitto e si applicano eventuali fasi di rinascita. Poi si ritorna alla fase 1.   
-
-
-
-**VITTORIA**
-In base alla modalità di gioco, se il gongo suona per la terza volta, un obbiettivo è raggiunto o se rimane un solo campione sul campo di battaglia la partita finisce. 
+### THE BATTLE BEGINS!!
 
 ---
 
-### Glossario effetti ###
-1. Interruzione
-2. Recupero
-3. Scartare
-4. Bruciare
-5. Bloccare
-6. distrarre
-7. Concentrare
+**Game phases**
+Each moment of the battle is divided into three phases:
 
+1. **Action selection** – Each player chooses a card, sets the Orientation Wheel, and places them face down in front of them.
+2. **Reveal** – Each player reveals their card and their orientation.
+3. **Resolve** – Assign quick effects | Movement | (initiative / effects)
 
+At the end of each moment, check whether someone has been defeated and apply any rebirth phases. Then return to phase 1.
+
+---
+
+**VICTORY**
+Depending on the game mode, the game ends if the gong sounds for the third time, an objective is achieved, or only one champion remains on the battlefield.
+
+---
+
+### Effects glossary
+
+1. Interruption
+2. Recovery
+3. Discard
+4. Burn
+5. Block
+6. Distract
+7. Focus
+
+---
